@@ -1,4 +1,4 @@
-# Basic Project # 
+# Basic Project
 Contains these libraries and frameworks:
 
 * jQuery
@@ -7,7 +7,7 @@ Contains these libraries and frameworks:
 * Gulp
 * Browser-Sync
 
-## Install
+## How to install
 * install node.js, bower
 * install bower
     npm install bower -g
