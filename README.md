@@ -10,10 +10,17 @@ Contains these libraries and frameworks:
 ## How to install
 * install node.js, bower
 * install bower
+
     npm install bower -g
+    
 * install gulp
+
 	npm install gulp -g
+	
 * run bower
+
     bower install
+
 * run gulp
+
 	gulp
