@@ -1,0 +1,32 @@
+{
+  "name": "project-gulp",
+  "version": "0.0.1",
+  "description": "project with gulp, compass, browser-sync, bower, jquery, modernizr",
+  "repository": {
+    "type" : "git",
+    "url" : "git://github.com/cezinha/project-gulp.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/cezinha/project-gulp/issues"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "jquery",
+    "compass",
+    "gulp"
+  ],
+  "author": {
+    "name" : "Celina Uemura <cezinha@cezinha.com.br>",
+    "url" : "http://www.cezinha.com.br"
+  },
+  "main": "js/main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "browser-sync": "^2.2.3",
+    "gulp": "^3.8.11",
+    "gulp-compass": "^2.0.3"
+  },
+  "license": "MIT"
+}
